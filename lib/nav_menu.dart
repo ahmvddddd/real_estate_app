@@ -66,7 +66,7 @@ class _NavigationMenuState extends ConsumerState<NavigationMenu> {
             ),
             const BottomNavigationBarItem(
               icon: Icon(Icons.more_vert, size: Sizes.iconM),
-              label: 'More>',
+              label: 'More',
             ),
           ],
         ),
